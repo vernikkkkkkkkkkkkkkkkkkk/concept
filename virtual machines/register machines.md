@@ -7,4 +7,5 @@
 
 ## Cвязь с другими понятиями 
 https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines.md
+
 [virtual_machines](../virtual machinesmd)
