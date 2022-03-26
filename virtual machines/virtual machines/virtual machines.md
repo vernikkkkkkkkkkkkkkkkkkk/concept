@@ -6,7 +6,7 @@
 
 ## Связь с другими понятиями
 
-[register machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines.md)
+[register machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register%20machines.md)
 
 [hardware](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/hardware.md)
 
