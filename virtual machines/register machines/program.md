@@ -6,7 +6,9 @@
 
 ## Cвязь с другими понятиями 
 [process control block](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/process%20control%20block.md)
+
 [register](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register.md)
+
 [register machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register%20machines.md)
 
 ## Cсылка на библиографию
