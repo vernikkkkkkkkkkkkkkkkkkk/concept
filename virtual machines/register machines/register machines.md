@@ -8,4 +8,4 @@
 [virtual_machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines.md)
 
 ## Cсылка на библиографию
-[savitsky-calculations-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/savitsky-calculations-book.md)
+[savitsky-calculations-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/savitsky-calculations-book.md)
