@@ -6,6 +6,8 @@
 
 ## Cвязь с другими понятиями 
 [virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines.md)
-
+[process control block](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/process%20control%20block.md)
+[program](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/program.md)
+[register](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register.md)
 ## Cсылка на библиографию
 [savitsky-calculations-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/savitsky-calculations-book.md)
