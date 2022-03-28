@@ -10,3 +10,4 @@ https://libking.ru/books/comp-osnet/267031-aleksey-gultyaev-virtualnye-mashiny-n
 - Глава 2. Виртуальные машины Virtual PC 2004
 - Глава 3. Виртуальные машины VMware Workstation
 - Глава 4. Виртуальные машины Parallels Workstation
+
