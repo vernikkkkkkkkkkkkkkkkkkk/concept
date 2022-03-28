@@ -10,3 +10,4 @@ http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=dm&paperid=1408&option
 
 ## Ключевые слова
 Регистровые машины со счетчиками.
+
