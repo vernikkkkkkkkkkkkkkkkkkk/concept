@@ -15,5 +15,5 @@
 [software system](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/software%20system.md)
 
 ## Cсылка на библиографию
-[gultyaev-machine-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/gultyaev-machine-book.md)
+[gultyaev-machine-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/gultyaev-machine-book.md)
 
