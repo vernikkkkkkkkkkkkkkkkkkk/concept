@@ -6,7 +6,7 @@
 
 ## Связь с другими понятиями
 
-[instruction set](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/edit/main/virtual%20machines/instruction%20set/instruction%20set.md)
+[instruction set](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/instruction%20set.md)
 
 ## Cсылка на библиографию
 
