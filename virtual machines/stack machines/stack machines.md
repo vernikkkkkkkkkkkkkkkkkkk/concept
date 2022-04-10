@@ -11,5 +11,5 @@
 [virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md)
 
 ## Cсылка на библиографию
-[tuesdays-stack-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/tuesdays-stack-book.md)
+[tuesdays-stack-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/stack%20machines/tuesdays-stack-book%7B2%7D.md)
 
