@@ -16,6 +16,8 @@
 
 [processor](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/processor.md)
 
+[control code](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/control%20code.md)
+
 
 ## Cсылка на библиографию
 
