@@ -6,6 +6,11 @@
 
 ## Связь с другими понятиями
 
+[stack machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/stack%20machines.md)
+
+[operand](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/operand.md)
+
+[data structure](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/data%20structure.md)
 
 
 ## Cсылка на библиографию
