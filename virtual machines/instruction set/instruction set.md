@@ -14,6 +14,7 @@
 
 [memory management](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20management.md)
 
+[processor](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/processor.md)
 
 
 ## Cсылка на библиографию
