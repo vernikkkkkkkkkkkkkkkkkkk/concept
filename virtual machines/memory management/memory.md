@@ -8,8 +8,6 @@
 
 [physical memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/physical%20memory.md)
 
-[memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory.md)
-
 [memory management](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20management.md)
 
 [computer system](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/computer%20system.md)
