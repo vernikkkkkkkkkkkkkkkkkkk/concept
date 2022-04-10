@@ -9,3 +9,4 @@
 
 ## Cсылка на библиографию
 
+[wirth-algorithms-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/stack%20machines/wirth-algorithms-book.md)
