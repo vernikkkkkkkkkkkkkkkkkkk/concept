@@ -6,4 +6,4 @@
 ## Cвязь с другими понятиями 
 
 ## Cсылка на библиографию
-[savitsky-calculations-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/savitsky-calculations-book.md)
+[tanenbaum-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/tanenbaum-architecture-book.md)
