@@ -10,4 +10,4 @@
 
 ## Cсылка на библиографию
 
-[tanenbaum-architecture-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/tanenbaum-architecture-book%7B3%7D.md)
+[wavreniuk-systems-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/wavreniuk-systems-book.md)
