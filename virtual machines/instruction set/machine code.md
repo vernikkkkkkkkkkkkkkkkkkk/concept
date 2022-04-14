@@ -6,6 +6,7 @@
 ## Связь с другими понятиями
 
 [instruction set](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/instruction%20set.md)
+
 [operation code](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/operation%20code.md)
 ## Cсылка на библиографию
 
