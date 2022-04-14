@@ -10,4 +10,4 @@
 [operation code](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/operation%20code.md)
 ## Cсылка на библиографию
 
-[tanenbaum-architecture-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/tanenbaum-architecture-book%7B2%7D.md)
+[bayanov-programming-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/bayanov-programming-book.md)
