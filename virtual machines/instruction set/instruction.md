@@ -9,4 +9,4 @@
 
 ## Cсылка на библиографию
 
-[hamacher-organization-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/hamacher-organization-book%7B2%7D.md)
+[hamacher-organization-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/hamacher-organization-book%7B2%7D.md)
