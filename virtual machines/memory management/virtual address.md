@@ -1,0 +1,13 @@
+## виртуальный адрес
+Виртуальный адрес (eng: virtual address) 
+
+## Определение
+Виртуальный адрес — адрес, идентифицирующий локализацию байта в виртуальном адресном пространстве, блок управления памятью транслирует виртуальный адрес в физический.
+
+## Связь с другими понятиями
+
+[instruction set](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/instruction%20set.md)
+
+## Cсылка на библиографию
+
+[mcconnell-code-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/mcconnell-code-book.md)
