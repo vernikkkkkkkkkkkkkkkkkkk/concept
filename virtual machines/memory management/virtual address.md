@@ -6,7 +6,7 @@
 
 ## Связь с другими понятиями
 
-[instruction set](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/instruction%20set.md)
+[memory management](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/tree/main/virtual%20machines/memory%20management)
 
 ## Cсылка на библиографию
 
