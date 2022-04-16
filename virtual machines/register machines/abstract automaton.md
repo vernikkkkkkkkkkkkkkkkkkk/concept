@@ -14,3 +14,5 @@
 
 ## Cсылка на библиографию
 [harold-structure-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/harold-structure-book.md)
+
+[yakubaitis-automaton-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/yakubaitis-automaton-book.md)
