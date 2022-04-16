@@ -10,4 +10,4 @@
 
 ## Cсылка на библиографию
 
-[mcconnell-code-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/mcconnell-code-book.md)
+[tanenbaum-systems-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/tanenbaum-systems-book%7B2%7D.md)
