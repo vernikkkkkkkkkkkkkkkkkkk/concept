@@ -9,4 +9,4 @@ Cегментно-страничное распределение памяти  
 
 ## Cсылка на библиографию
 
-[mcconnell-code-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/mcconnell-code-book.md)
+[kaspersky-technique-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/kaspersky-technique-book.md)
