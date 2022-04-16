@@ -9,5 +9,8 @@
 
 [finite state machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/finite%20state%20machine.md)
 
+[turing machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/turing%20machine.md)
+
+
 ## Cсылка на библиографию
 [harold-structure-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/harold-structure-book.md)
