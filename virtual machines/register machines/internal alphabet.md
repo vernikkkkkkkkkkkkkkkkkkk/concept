@@ -12,4 +12,4 @@
 
 ## Cсылка на библиографию
 
-[mcconnell-code-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/mcconnell-code-book.md)
+[soltis-introduction-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/soltis-introduction-book.md)
