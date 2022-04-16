@@ -13,4 +13,4 @@
 [stack](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/stack.md)
 
 ## Cсылка на библиографию
-[tuesdays-stack-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/stack%20machines/tuesdays-stack-book%7B2%7D.md)
+[malyavko-languages-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/stack%20machines/malyavko-languages-book.md)
