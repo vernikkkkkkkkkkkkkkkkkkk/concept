@@ -12,5 +12,5 @@
 [software system](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/software%20system.md)
 
 ## Cсылка на библиографию
-[leibovichi-virtualization-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/leibovichi-virtualization-book%7B1%7D.md)
+[leibovichi-virtualization-book{1}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/leibovichi-virtualization-book%7B1%7D.md)
 
