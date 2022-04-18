@@ -12,5 +12,5 @@
 [software system](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/software%20system.md)
 
 ## Cсылка на библиографию
-[denisov-procuring-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/denisov-procuring-book.md)
+[sierra-java-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/sierra-java-book%7B2%7D.md)
 
