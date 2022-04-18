@@ -1,5 +1,5 @@
 ## Target-платформа
-target-платформа(eng: target platform) 
+"target" платформа(eng: target platform) 
 
 ## Определение
 Target-платформа — целевая операционная система.
@@ -12,5 +12,4 @@ Target-платформа — целевая операционная систе
 [software system](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/software%20system.md)
 
 ## Cсылка на библиографию
-[denisov-procuring-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/denisov-procuring-book.md)
-
+[evans-rise-survey{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/evans-rise-survey%7B2%7D.md)
