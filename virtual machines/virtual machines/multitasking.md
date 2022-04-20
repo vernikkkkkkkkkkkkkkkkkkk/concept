@@ -47,3 +47,4 @@
 ## Cсылка на библиографию
 [kurnitz-FreeRTOS-article{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/kurnitz-FreeRTOS-article%7B2%7D.md)
 
+
