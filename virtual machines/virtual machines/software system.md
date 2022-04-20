@@ -47,3 +47,4 @@
 ## Cсылка на библиографию
 [brooks-systems-book{1}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/brooks-systems-book%7B1%7D.md)
 
+
