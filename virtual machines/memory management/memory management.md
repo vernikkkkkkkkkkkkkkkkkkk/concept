@@ -43,3 +43,4 @@
 
 ## Cсылка на библиографию
 [coconut-memory-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/coconut-memory-book.md)
+
