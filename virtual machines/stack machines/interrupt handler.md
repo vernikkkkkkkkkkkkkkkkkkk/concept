@@ -32,3 +32,4 @@
 [stack](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/stack.md)
 ## Cсылка на библиографию
 [rafgarden-algorithm-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/stack%20machines/rafgarden-algorithm-book.md)
+
