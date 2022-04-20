@@ -46,3 +46,4 @@
 ## Cсылка на библиографию
 [tanenbaum-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/tanenbaum-architecture-book.md)
 
+
