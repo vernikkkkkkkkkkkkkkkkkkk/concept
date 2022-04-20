@@ -13,8 +13,6 @@
 
 [cooperative multitasking](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/cooperative%20multitasking.md)
 
-[emulation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/emulation.md)
-
 [file descriptor](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/file%20descriptor.md)
 
 [hardware](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/hardware.md)
