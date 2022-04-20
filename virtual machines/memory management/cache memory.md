@@ -35,3 +35,4 @@
 ## Cсылка на библиографию
 
 [tolstobrov-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/tolstobrov-architecture-book.md)
+
