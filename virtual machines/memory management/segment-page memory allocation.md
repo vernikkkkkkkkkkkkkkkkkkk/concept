@@ -34,3 +34,4 @@ Cегментно-страничное распределение памяти  
 ## Cсылка на библиографию
 
 [kaspersky-technique-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/kaspersky-technique-book.md)
+
