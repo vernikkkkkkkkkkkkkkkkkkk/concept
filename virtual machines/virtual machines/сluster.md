@@ -46,3 +46,4 @@
 
 ## Cсылка на библиографию
 [leibovichi-virtualization-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/leibovichi-virtualization-book%7B2%7D.md)
+
