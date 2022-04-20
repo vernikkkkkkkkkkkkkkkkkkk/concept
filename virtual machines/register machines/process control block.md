@@ -29,7 +29,3 @@
 
 [transition table](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/transition%20table.md)
 
-[turing machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/turing%20machine.md)
-## Cсылка на библиографию
-[brooks-systems-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/brooks-systems-book%7B2%7D.md)
-
