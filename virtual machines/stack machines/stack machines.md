@@ -15,8 +15,6 @@
 
 [examples](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/tree/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages)
 
-[stack machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/stack%20machines.md)
-
 [arithmetic logic unit](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/arithmetic%20logic%20unit.md)
 
 [bus](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/bus.md)
