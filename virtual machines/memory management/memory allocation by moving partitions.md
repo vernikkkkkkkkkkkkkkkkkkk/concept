@@ -35,3 +35,4 @@
 ## Cсылка на библиографию
 
 [tanenbaum-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/tanenbaum-architecture-book.md)
+
