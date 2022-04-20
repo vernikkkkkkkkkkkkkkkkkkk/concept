@@ -32,3 +32,4 @@
 ## Cсылка на библиографию
 [yakubaitis-automaton-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/yakubaitis-automaton-book.md)
 
+
