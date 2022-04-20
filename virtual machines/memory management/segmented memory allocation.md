@@ -33,3 +33,4 @@
 ## Cсылка на библиографию
 
 [kaspersky-technique-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/kaspersky-technique-book%7B2%7D.md)
+
