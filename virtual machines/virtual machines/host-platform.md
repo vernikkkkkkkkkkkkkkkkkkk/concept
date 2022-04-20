@@ -46,3 +46,4 @@
 [cluster](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/%D1%81luster.md)
 ## Cсылка на библиографию
 [evans-rise-survey{1}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/evans-rise-survey%7B1%7D.md)
+
