@@ -33,3 +33,4 @@
 [stack](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/stack.md)
 ## Cсылка на библиографию
 [wirth-building-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/stack%20machines/wirth-building-book.md)
+
