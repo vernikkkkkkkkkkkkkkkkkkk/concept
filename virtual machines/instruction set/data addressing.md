@@ -29,3 +29,4 @@
 ## Cсылка на библиографию
 
 [bryant-systems-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/bryant-systems-book.md)
+
