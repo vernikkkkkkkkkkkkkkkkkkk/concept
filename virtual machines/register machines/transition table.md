@@ -31,3 +31,4 @@
 ## Cсылка на библиографию
 
 [mirzoev-machine-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/register%20machines/mirzoev-machine-book.md)
+
