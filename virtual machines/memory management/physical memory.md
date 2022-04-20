@@ -32,3 +32,4 @@
 
 [virtual memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/virtual%20memory.md)
 
+
