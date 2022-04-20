@@ -11,13 +11,9 @@
 
 [register machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register%20machines.md)
 
-[memory management](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20management.md)
-
 [instruction set](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/instruction%20set.md)
 
 [examples](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/tree/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages)
-
-[memory management](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20management.md)
 
 [cache memory](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/cache%20memory.md)
 
