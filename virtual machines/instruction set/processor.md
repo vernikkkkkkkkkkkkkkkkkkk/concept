@@ -26,3 +26,4 @@
 
 ## Cсылка на библиографию
 [tanenbaum-architecture-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/instruction%20set/tanenbaum-architecture-book.md)
+
