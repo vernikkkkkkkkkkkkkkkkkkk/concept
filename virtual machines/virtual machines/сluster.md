@@ -44,6 +44,5 @@
 
 [virtualization](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtualization.md)
 
-[cluster](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/%D1%81luster.md)
 ## Cсылка на библиографию
 [leibovichi-virtualization-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/leibovichi-virtualization-book%7B2%7D.md)
