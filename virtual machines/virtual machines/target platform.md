@@ -46,3 +46,4 @@ Target-платформа — целевая операционная систе
 [cluster](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/%D1%81luster.md)
 ## Cсылка на библиографию
 [evans-rise-survey{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/evans-rise-survey%7B2%7D.md)
+
