@@ -23,3 +23,4 @@ Dalvik оптимизирован для низкого потребления �
 [implementation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/implementation.md)
 
 [PVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/python/PVM.md)
+
