@@ -46,3 +46,4 @@ cимметричная многопроцессорность(eng: symmetric mu
 ## Cсылка на библиографию
 [eagles-organization-book{1}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/eagles-%D0%BErganization-book%7B1%7D.md)
 
+
