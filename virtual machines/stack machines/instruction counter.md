@@ -32,3 +32,4 @@ cчетчик инструкций (eng: instruction counter)
 [stack](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/stack.md)
 ## Cсылка на библиографию
 [gagarina-introduction-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/stack%20machines/gagarina-introduction-book%7B2%7D.md)
+
