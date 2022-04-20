@@ -45,5 +45,5 @@
 
 [cluster](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/%D1%81luster.md)
 ## Cсылка на библиографию
-[eagles-оrganization-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/eagles-%D0%BErganization-book.md)
+[eagles-оrganization-book{3}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/eagles-%D0%BErganization-book%7B3%7D.md)
 
