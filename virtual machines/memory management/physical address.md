@@ -35,3 +35,4 @@
 ## Cсылка на библиографию
 
 [tanenbaum-systems-book{2}](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/tanenbaum-systems-book%7B2%7D.md)
+
