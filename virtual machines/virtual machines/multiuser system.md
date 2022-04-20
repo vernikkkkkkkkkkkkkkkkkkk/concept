@@ -27,8 +27,6 @@
 
 [multithreading](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/multithreading.md)
 
-[multiuser system](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/multiuser%20system.md)
-
 [nonpreepmtive multitasking](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/nonpreepmtive%20multitasking.md)
 
 [operating systems](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/operating%20systems.md)
