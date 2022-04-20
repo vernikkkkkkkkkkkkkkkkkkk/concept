@@ -46,3 +46,4 @@
 ## Cсылка на библиографию
 [denisov-procuring-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/virtual%20machines/denisov-procuring-book.md)
 
+
