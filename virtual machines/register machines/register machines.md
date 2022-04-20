@@ -9,15 +9,13 @@
 
 [stack machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/stack%20machines/stack%20machines.md)
 
+[register machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register%20machines.md)
+
 [memory management](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/memory%20management/memory%20management.md)
 
 [instruction set](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/instruction%20set/instruction%20set.md)
 
-[process control block](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/process%20control%20block.md)
-
-[program](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/program.md)
-
-[register](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register.md)
+[examples](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/tree/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages)
 
 [abstract automaton](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/abstract%20automaton.md)
 
@@ -32,6 +30,12 @@
 [internal alphabet](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/internal%20alphabet.md)
 
 [nondeterministic turing machine](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/nondeterministic%20turing%20machine.md)
+
+[process control block](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/process%20control%20block.md)
+
+[program](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/program.md)
+
+[register](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/register.md)
 
 [transition table](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/register%20machines/transition%20table.md)
 
