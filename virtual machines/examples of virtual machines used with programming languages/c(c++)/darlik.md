@@ -4,6 +4,7 @@
 ## Определение
 Dalvik оптимизирован для низкого потребления памяти, это нестандартная регистр-ориентированная виртуальная машина, хорошо подходящая для исполнения на процессорах RISC-архитектур, часто используемых в мобильных и встраиваемых устройствах, таких как коммуникаторы и планшетные компьютеры.
 ## Cвязь с другими понятиями 
+[virtual machines](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/virtual%20machines/virtual%20machines.md)
 
 [VMware workstation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/c(c%2B%2B)/VMware%20workstation.md)
 
@@ -22,5 +23,3 @@ Dalvik оптимизирован для низкого потребления �
 [implementation](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/java/three%20main%20parts/implementation.md)
 
 [PVM](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/virtual%20machines/examples%20of%20virtual%20machines%20used%20with%20programming%20languages/python/PVM.md)
-
-## Cсылка на библиографию
