@@ -33,3 +33,4 @@
 ## Cсылка на библиографию
 
 [karanchuk-fundamentals-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/karanchuk-fundamentals-book.md)
+
