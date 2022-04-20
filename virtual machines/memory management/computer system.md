@@ -36,3 +36,4 @@
 
 [randal-system-book](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept/blob/main/bibliography/memory%20management/randal-system-book.md)
 
+
