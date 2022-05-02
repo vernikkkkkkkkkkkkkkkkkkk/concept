@@ -6,7 +6,7 @@
 
 Общая схема работы стека:
 
-![stack](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/compiler.png "Общая схема работы стека")
+![stack](https://github.com/vernikkkkkkkkkkkkkkkkkkk/concept_new/blob/main/images/Stack.png "Общая схема работы стека")
 
 Возможны три операции со стеком: добавление элемента (иначе проталкивание, push), удаление элемента (pop) и чтение головного элемента (peek).
 
